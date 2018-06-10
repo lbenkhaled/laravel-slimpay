@@ -9,21 +9,27 @@ Required
 Edit composer.json file add this:
 
 "require" :{
+
     ..............
+    
     "slimpay/hapiclient": "1.*"
+    
     }
 
-composer install
+do composer install
 
 composer update
 
-See the my controller SlimPayController for example.
 
-Dont forget to edit .env file an add:
+See my controller SlimPayController for example.
+
+
+Dont forget to edit .env file an add your credential:
 
 SLIMPAY_CREDITOR=integration
 
 SLIMPAY_SECRET=9#OR#OkgNhP9lig89laQFKD71t0C
+
 
 Links:
 
