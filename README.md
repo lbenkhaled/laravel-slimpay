@@ -1,5 +1,5 @@
 # laravel-slimpay
-slimpay laravel integration
+SlimPay laravel integration
 
 Required
 - Laravel : 5.6
