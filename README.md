@@ -4,7 +4,7 @@ SlimPay laravel integration
 Required
 - Laravel : 5.6
 - PHP : 7+
-- SlimPay credential--> https://dev.slimpay.com/hapi/login?signup
+- SlimPay test credential--> https://dev.slimpay.com/hapi/login?signup
 
 Edit composer.json file add this:
 
@@ -30,9 +30,9 @@ SLIMPAY_CREDITOR=integration
 
 SLIMPAY_SECRET=9#OR#OkgNhP9lig89laQFKD71t0C
 
+That's it.
 
-Links:
+
+Link:
 
 https://dev.slimpay.com/hapi/guide/30-min-integration/easy-step-by-step
-
-Thats it.
